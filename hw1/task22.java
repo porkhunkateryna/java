@@ -1,3 +1,6 @@
+/** ця програма отримує на вхід два числа, і за допомогою десяткового логарифма
+ * та рахує к-ть розрядів, а також їх середнє гармонійне
+ * @author kateryna porkhun*/
 package homework;
 import java.util.Scanner;
 public class task22 {
