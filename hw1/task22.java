@@ -22,6 +22,8 @@ public class task22 {
 		
 		double harmonic = 2 / (1.0/a + 1.0/b);
 		
+	System.out.println("Порхун, завдання 2.2, отримала о 21:48 ");
+		
         System.out.printf("\nLogarithmic method, number %d: %d",a,  logmethod);
         System.out.printf("\nString method, number %d: %d", b, strmethod);
         System.out.printf("\nHarmonic mean: %.2f", harmonic);
